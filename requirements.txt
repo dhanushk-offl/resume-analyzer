@@ -1,5 +1,6 @@
  streamlit
  langchain
  langchain-core
- langchain_community
- langchain_gorq
+ groq
+ dotenv
+ 
